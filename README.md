@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a fifth year student of Science and Systems Engineering at the Western University Center of the University of San Carlos de Guatemla.
+
+###My skills are:
+
+ - Fullstack Developer.
+ - Modern backend application development with Java, Spring Boot, Spring Data, Spring Security, JPA, NodeJs and Dotnet.
+ - Development of frontend applications with domain in the most modern Javascript Framework's on the market such as Angular, React, Vue among others.
+ - Solid knowledge in CI / CD and DevOps processes
+ - Use of agile development methodologies such as SCRUM, Kanban, XP.
+ - Independence and management of the IDE's most common and used in the development of Java applications.
+ - Knowledge of other languages such as Python, PHP, Go, C / C ++.
