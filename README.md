@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a fifth year student of Science and Systems Engineering at the Western University Center of the University of San Carlos de Guatemla.
+I am a fifth year student of Science and Systems Engineering at the Western University Center of the University of San Carlos of Guatemala.
 
-###My skills are:
+### My skills are:
 
  - Fullstack Developer.
  - Modern backend application development with Java, Spring Boot, Spring Data, Spring Security, JPA, NodeJs and Dotnet.
