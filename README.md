@@ -28,9 +28,9 @@ I am a fifth year student of Science and Systems Engineering at the Western Univ
  - Knowledge of other languages such as Python, PHP, Go, C / C ++.
 
 ### Languages ​​and tools for development:
-![iOS](https://img.shields.io/badge/iOS-999999?style=for-the-badge&amp;logo=apple&amp;logoColor=white&amp;labelColor=101010)</br>
 ![Spring](https://img.shields.io/badge/Spring-999999?style=for-the-badge&amp;logo=Spring&amp;logoColor=green&amp;labelColor=101010)</br>
-![Angular](https://img.shields.io/badge/Angular-999999?style=for-the-badge&amp;logo=Angular&amp;logoColor=red&amp;labelColor=101010)</br>
+![Angular](https://img.shields.io/badge/Angular-999999?style=for-the-badge&amp;logo=Angular&amp;logoColor=red&amp;labelColor=0f60ca)</br>
+![React](https://img.shields.io/badge/React-999999?style=for-the-badge&amp;logo=React&amp;logoColor=blue&amp;labelColor=89b1e6)</br>
 
 ### Find me at:
 
