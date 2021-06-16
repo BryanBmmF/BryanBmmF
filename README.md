@@ -26,3 +26,12 @@ I am a fifth year student of Science and Systems Engineering at the Western Univ
  - Use of agile development methodologies such as SCRUM, Kanban, XP.
  - Independence and management of the IDE's most common and used in the development of Java applications.
  - Knowledge of other languages such as Python, PHP, Go, C / C ++.
+
+### Languages ​​and tools for development:
+![Spring](https://img.shields.io/badge/Spring-0f60ca&logo=Spring&style=for-the-badge)</br>
+
+### Find me at:
+
+
+
+
