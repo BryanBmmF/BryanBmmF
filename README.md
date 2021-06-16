@@ -29,8 +29,8 @@ I am a fifth year student of Science and Systems Engineering at the Western Univ
 
 ### Languages ​​and tools for development:
 ![Spring](https://img.shields.io/badge/Spring-999999?style=for-the-badge&amp;logo=Spring&amp;logoColor=green&amp;labelColor=101010)</br>
-![Angular](https://img.shields.io/badge/Angular-999999?style=for-the-badge&amp;logo=Angular&amp;logoColor=red&amp;labelColor=0f60ca)</br>
-![React](https://img.shields.io/badge/React-999999?style=for-the-badge&amp;logo=React&amp;logoColor=blue&amp;labelColor=89b1e6)</br>
+![Angular](https://img.shields.io/badge/Angular-0f60ca?style=for-the-badge&amp;logo=Angular&amp;logoColor=red&amp;labelColor=101010)</br>
+![React](https://img.shields.io/badge/React-89b1e6?style=for-the-badge&amp;logo=React&amp;logoColor=blue&amp;labelColor=101010)</br>
 
 ### Find me at:
 
