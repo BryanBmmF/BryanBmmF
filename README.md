@@ -45,8 +45,8 @@ I am a fifth year student of Science and Systems Engineering at the Western Univ
 ![Jenkins](https://img.shields.io/badge/Jenkins-a5a598?style=for-the-badge&amp;logo=jenkins&amp;logoColor=red&amp;labelColor=101010)
 ![Docker](https://img.shields.io/badge/Docker-608dab?style=for-the-badge&amp;logo=docker&amp;logoColor=blue&amp;labelColor=101010)
 ![MySql](https://img.shields.io/badge/MySQL-635f22?style=for-the-badge&amp;logo=mysql&amp;logoColor=blue&amp;labelColor=101010)
-![MongoDB](https://img.shields.io/badge/Docker-4a6322?style=for-the-badge&amp;logo=mongodb&amp;logoColor=green&amp;labelColor=101010)
-![Oracle](https://img.shields.io/badge/Docker-596f7d?style=for-the-badge&amp;logo=oracle&amp;logoColor=red&amp;labelColor=101010)</br>
+![MongoDB](https://img.shields.io/badge/MongoDB-4a6322?style=for-the-badge&amp;logo=mongodb&amp;logoColor=green&amp;labelColor=101010)
+![Oracle](https://img.shields.io/badge/Oracle-596f7d?style=for-the-badge&amp;logo=oracle&amp;logoColor=red&amp;labelColor=101010)</br>
 
 
 ### Find me at:
