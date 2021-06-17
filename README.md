@@ -52,6 +52,3 @@ I am a student fifth year of Computer Science and Systems engineering at the Wes
 ### Find me at:
 
 linkedin.com/in/bryan-misael-monzón-fuentes-7a2178215
-bryan.bmmf@gmail.com
-
-
