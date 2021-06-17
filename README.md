@@ -19,13 +19,17 @@ I am a student fifth year of Computer Science and Systems engineering at the Wes
 
 ### My skills are:
 
- - Fullstack Developer.
- - Modern backend application development with Java, Spring Boot, Spring Data, Spring Security, JPA, NodeJs and Dotnet.
+ - Full Stack Developer.
+ - Development of modern backend applications with Java and associated technologies such as JavaEE / JakartaEE, Microprofile, Spring Boot, Spring Data, Spring Security, Hibernate, JPA. As well as other backends in NodeJs and Dotnet.
  - Development of frontend applications with domain in the most modern Javascript Framework's on the market such as Angular, React, Vue among others.
- - Solid knowledge in CI / CD and DevOps processes
+ - Mobile application development for Android and iOS with technologies such as Java for Android, Kotlin, Flutter, Xamarin among others.
+ - Solid knowledge in CI / CD and DevOps processes with technologies such as Maven, Git / GitHub, Jenkins, SonarQube and Selenium WebDriver.
  - Use of agile development methodologies such as SCRUM, Kanban, XP.
- - Independence and management of the IDE's most common and used in the development of Java applications.
+ - Independence and management of the most common IDEs used in the development of Java applications and other languages.
  - Knowledge of other languages such as Python, PHP, Go, C / C ++.
+ - Solid fundamentals in Business Intelligence and Business Analysis processes.
+ - Advanced handling of operating systems such as Linux and Windows.
+ - Solid knowledge in DBA with engines like MySQL, Postgresql, MSSQL, Oracle, and MongoDB.
 
 ### Frameworks, languages ​​and tools for development:
 ![Spring](https://img.shields.io/badge/Spring-999999?style=for-the-badge&amp;logo=Spring&amp;logoColor=green&amp;labelColor=101010)
