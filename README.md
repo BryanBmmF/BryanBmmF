@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a fifth year student of Science and Systems Engineering at the Western University Center of the University of San Carlos of Guatemala.
+I am a student fifth year of Computer Science and Systems engineering at the Western University Center of the University of San Carlos of Guatemala. Experience 2+ years developing software, with high self-study capacity.
 
 ### My skills are:
 
