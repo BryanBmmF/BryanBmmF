@@ -27,12 +27,10 @@ I currently have a closed curriculum for the Science and Systems Engineering deg
 ### Frameworks, languages ​​and tools for development:
 ![Spring](https://img.shields.io/badge/Spring-999999?style=for-the-badge&amp;logo=Spring&amp;logoColor=green&amp;labelColor=101010)
 ![Angular](https://img.shields.io/badge/Angular-0f60ca?style=for-the-badge&amp;logo=Angular&amp;logoColor=red&amp;labelColor=101010)
-![SAP Commerce](https://img.shields.io/badge/SAP%20Commerce-27899f?style=for-the-badge&amp;logo=Typescript&amp;logoColor=blue&amp;labelColor=101010)
-![React](https://img.shields.io/badge/React-89b1e6?style=for-the-badge&amp;logo=React&amp;logoColor=blue&amp;labelColor=101010)
-![VueJs](https://img.shields.io/badge/VueJs-89b1e6?style=for-the-badge&amp;logo=V&amp;logoColor=blue&amp;labelColor=101010)</br>
+![SAP](https://img.shields.io/badge/SAP%20Commerce-27899f?style=for-the-badge&amp;logo=SAP&amp;logoColor=blue&amp;labelColor=101010)
 ![Java](https://img.shields.io/badge/Java-cbe26f?style=for-the-badge&amp;logo=Java&amp;logoColor=blue&amp;labelColor=101010)
 ![C](https://img.shields.io/badge/C_Native-6fe2dc?style=for-the-badge&amp;logo=C&amp;logoColor=blue&amp;labelColor=101010)
-![C++](https://img.shields.io/badge/C++_Native-6fd4e2?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=green&amp;labelColor=101010)
+![C++](https://img.shields.io/badge/C++_Native-6fd4e2?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=green&amp;labelColor=101010)</br>
 ![Dotnet](https://img.shields.io/badge/.NetCore_Dotnet_ASP-986fe2?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white&amp;labelColor=101010)
 ![Python](https://img.shields.io/badge/Python-d9f40f?style=for-the-badge&amp;logo=Python&amp;logoColor=blue&amp;labelColor=101010)
 ![Javascript](https://img.shields.io/badge/Javascript-f2f5d9?style=for-the-badge&amp;logo=Javascript&amp;logoColor=yellow&amp;labelColor=101010)
@@ -43,8 +41,7 @@ I currently have a closed curriculum for the Science and Systems Engineering deg
 ![Jenkins](https://img.shields.io/badge/Jenkins-a5a598?style=for-the-badge&amp;logo=jenkins&amp;logoColor=red&amp;labelColor=101010)
 ![Docker](https://img.shields.io/badge/Docker-608dab?style=for-the-badge&amp;logo=docker&amp;logoColor=blue&amp;labelColor=101010)
 ![MySql](https://img.shields.io/badge/MySQL-635f22?style=for-the-badge&amp;logo=mysql&amp;logoColor=blue&amp;labelColor=101010)
-![MongoDB](https://img.shields.io/badge/MongoDB-4a6322?style=for-the-badge&amp;logo=mongodb&amp;logoColor=green&amp;labelColor=101010)
-![Oracle](https://img.shields.io/badge/Oracle-596f7d?style=for-the-badge&amp;logo=oracle&amp;logoColor=red&amp;labelColor=101010)</br>
+</br>
 
 
 ### Find me at:
