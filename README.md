@@ -15,25 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a student fifth year of Computer Science and Systems engineering at the Western University Center of the University of San Carlos of Guatemala. Experience 2+ years developing software, with high self-study capacity.
+I currently have a closed curriculum for the Science and Systems Engineering degree at the Centro Universitario de Occidente of the University of San Carlos in Guatemala, and I work as a Sap Commerce Developer at the Guatemalan company Ciancoders in outsourcing collaborations with the Mexican company Enapsys. I have more than 2 years of experience developing software professionally, with a high capacity for self-learning.
 
 ### My skills are:
 
- - Full Stack Developer.
- - Development of modern backend applications with Java and associated technologies such as JavaEE / JakartaEE, Microprofile, Spring Boot, Spring Data, Spring Security, Hibernate, JPA. As well as other backends in NodeJs and Dotnet.
- - Development of frontend applications with domain in the most modern Javascript Framework's on the market such as Angular, React, Vue among others.
- - Mobile application development for Android and iOS with technologies such as Java for Android, Kotlin, Flutter, Xamarin among others.
- - Solid knowledge in CI / CD and DevOps processes with technologies such as Maven, Git / GitHub, Jenkins, SonarQube and Selenium WebDriver.
+- Development of modern backend applications with Java and associated technologies such as Spring Framework, Spring Boot, Spring Data, Spring Security, Hibernate and JPA.
+ - Development of frontend applications with Angular, and solid knowledge in HTML, CSS and Javascript.
+ - Solid knowledge in CI / CD processes and DevOps with technologies such as Maven, Git / GitHub, Jenkins, SonarQube and Selenium WebDriver.
  - Use of agile development methodologies such as SCRUM, Kanban, XP.
- - Independence and management of the most common IDEs used in the development of Java applications and other languages.
- - Knowledge of other languages such as Python, PHP, Go, C / C ++.
- - Solid fundamentals in Business Intelligence and Business Analysis processes.
- - Advanced handling of operating systems such as Linux and Windows.
- - Solid knowledge in DBA with engines like MySQL, Postgresql, MSSQL, Oracle, and MongoDB.
 
 ### Frameworks, languages ​​and tools for development:
 ![Spring](https://img.shields.io/badge/Spring-999999?style=for-the-badge&amp;logo=Spring&amp;logoColor=green&amp;labelColor=101010)
 ![Angular](https://img.shields.io/badge/Angular-0f60ca?style=for-the-badge&amp;logo=Angular&amp;logoColor=red&amp;labelColor=101010)
+![SAP Commerce](https://img.shields.io/badge/SAP%20Commerce-27899f?style=for-the-badge&amp;logo=Typescript&amp;logoColor=blue&amp;labelColor=101010)
 ![React](https://img.shields.io/badge/React-89b1e6?style=for-the-badge&amp;logo=React&amp;logoColor=blue&amp;labelColor=101010)
 ![VueJs](https://img.shields.io/badge/VueJs-89b1e6?style=for-the-badge&amp;logo=V&amp;logoColor=blue&amp;labelColor=101010)</br>
 ![Java](https://img.shields.io/badge/Java-cbe26f?style=for-the-badge&amp;logo=Java&amp;logoColor=blue&amp;labelColor=101010)
